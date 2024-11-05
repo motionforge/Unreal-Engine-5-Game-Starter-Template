@@ -3,6 +3,8 @@
 
  This is a Blueprint project that contains many Blueprint classes that will be useful when starting a new project. This was set up to save time and effort when creating a new game or general purpose project.
 
+ All assets are in creative commons or direct built in Epic Games functionality.
+
  The project Contains:
 
  Blueprints:
@@ -26,7 +28,7 @@ Materials:
 5. The Volumetric clouds have a more built in advanced material applied.
 
 
-Settings up a new starter Template:
+Unreal Engine: Setting up a new starter Template:
 https://youtu.be/qdYg9JAuLgU?si=hOwtzRECskFMDszg 
 
 
