@@ -5,7 +5,7 @@
 
  This starter template does not cater to a specific type or genre of game, or interactive environment. It is meant as a starting point where you can build your own project from the included assets. 
 
- All assets are in creative commons or direct built in Epic Games functionality.
+ All assets are in creative commons or built using Unreal Engine built in functionality.
 
  The project Contains:
 
