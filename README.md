@@ -33,9 +33,11 @@ Materials:
 Unreal Engine: Setting up a new starter Template:
 https://youtu.be/qdYg9JAuLgU?si=hOwtzRECskFMDszg 
 
+Screenshots:
 
-![](https://github.com/motionforge/Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00001.png)
-![](https://github.com/motionforge/Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00000.png)
-![](https://github.com/motionforge/Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00002.png)
-![](https://github.com/motionforge/Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00003.png)
-![](https://github.com/motionforge/Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00004.png)
+![](https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00001Unreal_Engine_Starter_Template.jpg)
+![](https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00000Unreal_Engine_Starter_Template.jpg)
+![](https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00002Unreal_Engine_Starter_Template.jpg)
+![](https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00003Unreal_Engine_Starter_Template.jpg)
+![](https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00004Unreal_Engine_Starter_Template.jpg)
+
