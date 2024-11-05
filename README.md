@@ -1,4 +1,4 @@
-# Game_Template
+# Unreal Engine 5 Game Template
  Unreal Engine 5 Game and General Purpose Starter Template.
 
  This is a Blueprint project that contains many Blueprint classes that will be useful when starting a new project. This was set up to save time and effort when creating a new game or general purpose project.
