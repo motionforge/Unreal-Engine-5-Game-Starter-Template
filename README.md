@@ -27,7 +27,7 @@ Materials:
 2. Dynamic Material.
 3. Landscape non-tiling material.
 4. Grid Material.
-5. The Volumetric clouds have a more built in advanced material applied.
+5. The Volumetric clouds have a built in advanced material applied.
 
 Plugins:
 1. Activated Volumetrics content (for a better cloud material).
