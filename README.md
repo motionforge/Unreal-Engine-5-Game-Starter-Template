@@ -29,6 +29,9 @@ Materials:
 4. Grid Material.
 5. The Volumetric clouds have a more built in advanced material applied.
 
+Plugins:
+1. Activated Volumetrics content (for a better cloud material).
+
 
 Unreal Engine: Setting up a new starter Template:
 https://youtu.be/qdYg9JAuLgU?si=hOwtzRECskFMDszg 
