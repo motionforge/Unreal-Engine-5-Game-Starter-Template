@@ -9,7 +9,7 @@
 
  The project Contains:
 
- Blueprints:
+** Blueprints:**
  1. Direct Communication.
  2. Casting (Communication)
  3. Interface (Communication)
@@ -22,17 +22,25 @@
  10. Functions.
  11. And many other clases.
 
-Materials:
+**Widget Blueprints:**
+ 1. Core HUD BP (Structure created for controller global HUD Widgets.)
+ 2. Core HUD Widget Blueprints created.
+ 3. Standalone Widget Blueprint created.
+
+**Enumerators:**
+ 1. Example Enum created and controlled via the player controller BP.
+
+**Materials:**
 1. Master Template.
 2. Dynamic Material.
 3. Landscape non-tiling material.
 4. Grid Material.
 5. The Volumetric clouds have a built in advanced material applied.
 
-Plugins:
+**Plugins:**
 1. Activated Volumetrics content (for a better cloud material).
 
-Levels:
+**Levels:**
 1. Lvl_Blueprint_Sandbox (Displays included blueprints).
 2. Lvl_level (Level Template: Includes - Directional Light, Atmosphere, Volumetric Clouds, Sky Light, Exponential Fog and Post Process Volume)
 3. Lvl_MainMain (Blank level to load a main menu from).
