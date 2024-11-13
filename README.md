@@ -44,12 +44,11 @@
 1. Lvl_Blueprint_Sandbox (Displays included blueprints).
 2. Lvl_level (Level Template: Includes - Directional Light, Atmosphere, Volumetric Clouds, Sky Light, Exponential Fog and Post Process Volume)
 3. Lvl_MainMain (Blank level to load a main menu from).
-
-
-Unreal Engine: Setting up a new starter Template:
+**
+Unreal Engine: Setting up a new starter Template:**
 https://youtu.be/qdYg9JAuLgU?si=hOwtzRECskFMDszg 
 
-Folder Structure:
+**Folder Structure:**
 1. The project contains:
 2. Unreal Engine Built in Functionality e.g. Third Person Character.
 3. Bespoke classes and materials etc..
