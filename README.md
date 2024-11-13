@@ -56,6 +56,7 @@ Folder Structure:
 4. The Bespoke assets are all containned in a top level folder called GameTemplate (this keeps them organised, tidy and also safer to migrate to other projects without risk of overriding files in those projects)
 5. The structure follows many guidelines used in this UE style guide: https://github.com/Allar/ue5-style-guide 
 
+![](https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/GameTemplateFolder.jpg)
 
 Screenshots:
 
