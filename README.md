@@ -45,17 +45,17 @@
 2. Lvl_level (Level Template: Includes - Directional Light, Atmosphere, Volumetric Clouds, Sky Light, Exponential Fog and Post Process Volume)
 3. Lvl_MainMain (Blank level to load a main menu from).
 
-
-Unreal Engine: Setting up a new starter Template:
+**Unreal Engine: Setting up a new starter Template:**
 https://youtu.be/qdYg9JAuLgU?si=hOwtzRECskFMDszg 
 
-Folder Structure:
+**Folder Structure:**
 1. The project contains:
 2. Unreal Engine Built in Functionality e.g. Third Person Character.
 3. Bespoke classes and materials etc..
 4. The Bespoke assets are all containned in a top level folder called GameTemplate (this keeps them organised, tidy and also safer to migrate to other projects without risk of overriding files in those projects)
 5. The structure follows many guidelines used in this UE style guide: https://github.com/Allar/ue5-style-guide 
 
+![](https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/GameTemplateFolder.jpg)
 
 Screenshots:
 
