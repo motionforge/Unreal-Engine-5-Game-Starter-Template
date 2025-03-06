@@ -23,12 +23,12 @@
  11. And many other clases.
 
 **Widget Blueprints:**
- 1. Core HUD BP (Structure created for controller global HUD Widgets.)
- 2. Core HUD Widget Blueprints created.
- 3. Standalone Widget Blueprint created.
+ 1. Core HUD BP (Structure created for global HUD Widget Display).
+ 2. Core HUD Widget Blueprints.
+ 3. Standalone Widget Blueprint.
 
 **Enumerators:**
- 1. Example Enum created and controlled via the player controller BP.
+ 1. Example Enum class created and controlled via the player controller BP.
 
 **Materials:**
 1. Master Template.
