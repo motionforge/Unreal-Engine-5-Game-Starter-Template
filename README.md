@@ -20,7 +20,7 @@
  8. Light Blueprints.
  9. Arrays.
  10. Functions.
- 11. And many other clases.
+ 11. And many other classes.
 
 **Widget Blueprints:**
  1. Core HUD BP (Structure created for global HUD Widget Display).
