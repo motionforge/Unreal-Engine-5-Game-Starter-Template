@@ -3,7 +3,7 @@
 
  This is a Blueprint project (but could also be used as a base for a C++/Blueprint project) that contains many Blueprint classes that will be useful when starting a new project. This was set up to save time and effort when creating a new game or general purpose project.
 
- This starter template does not cater to a specific type or genre of game, or interactive environment. It is meant as a starting point where you can build your own project from the included assets. 
+ This starter template does not cater to a specific type or genre of game, or interactive environment. It is meant as a starting point where you can build your own project from the included assets. It does not contain complex systems, and is created to be a starting point for your project.
 
  All assets are in creative commons or built using Unreal Engine built in functionality.
 
