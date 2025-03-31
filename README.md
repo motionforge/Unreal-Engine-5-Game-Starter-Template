@@ -18,9 +18,10 @@
  6. Physics Door.
  7. Open Door always away from player.
  8. Light Blueprints.
- 9. Arrays.
- 10. Functions.
- 11. And many other classes.
+ 9. Simple Damage System.
+ 10. Arrays.
+ 11. Functions.
+ 12. And many other classes.
 
 **Widget Blueprints:**
  1. Core HUD BP (Structure created for global HUD Widget Display).
