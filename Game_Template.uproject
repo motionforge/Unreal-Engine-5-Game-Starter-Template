@@ -18,6 +18,10 @@
 		{
 			"Name": "Cargo",
 			"Enabled": false
+		},
+		{
+			"Name": "GraphNUnrealPlugin",
+			"Enabled": true
 		}
 	]
 }
