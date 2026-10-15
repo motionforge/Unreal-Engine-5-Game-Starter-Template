@@ -60,6 +60,6 @@ https://youtu.be/qdYg9JAuLgU?si=hOwtzRECskFMDszg
 
 Screenshots:
 
-![](https://HighresScreenshot00000Unreal_Engine_Starter_Templat.png)
-![](https://HighresScreenshot00002Unreal_Engine_Starter_Templat.png)
-![](https://HighresScreenshot00003Unreal_Engine_Starter_Templat.png)
+![](https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00000Unreal_Engine_Starter_Templat.png)
+![]((https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00002Unreal_Engine_Starter_Templat.png)
+![]((https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template/blob/main/ScreenShots/HighresScreenshot00003Unreal_Engine_Starter_Templat.png)
