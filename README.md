@@ -40,7 +40,7 @@ All assets are Creative Commons or made with Unreal Engine's built-in features.
 | I / O | Toggle the example inventory widgets |
 | T / Y | Example enum switching (prints the current state) |
 
-Movement uses Enhanced Input (`ThirdPerson/Input/IMC_Default`). The pause, inventory and enum keys are handled in `BP_PlayerController_CORE`.
+Movement uses Enhanced Input (`EpicContent/ThirdPerson/Input/IMC_Default`). The pause, inventory and enum keys are handled in `BP_PlayerController_CORE`.
 
 ---
 
@@ -63,8 +63,11 @@ Content/GameTemplate/
 ├── MaterialLibrary/     Master materials + instances
 ├── Niagara/             NS_Tracer, NS_Impact
 ├── Textures/
-├── ThirdPerson/         Epic's Third Person character, game mode and input
-└── EpicContent/         Starter Content, Level Prototyping and Characters from Epic
+└── EpicContent/         All Epic Games content in one place
+    ├── ThirdPerson/     Third Person character, game mode, input and ThirdPersonMap
+    ├── StarterContent/
+    ├── LevelPrototyping/
+    └── Characters/
 ```
 
 ![](ScreenShots/GameTemplateFolder.jpg)
@@ -255,7 +258,7 @@ Point these at your own assets, then use the Reference Viewer to check `Demo/` h
 | `Maps/Blueprint_Sandbox` | Editor startup map that shows the template Blueprints |
 | `Demo/Maps/Demo_Menu` | Main menu. Default map in a packaged game |
 | `Demo/Maps/Demo_Level` | Playable demo: a space-station arena blockout with drones, doors, lifts, hints, a pause menu and a victory screen |
-| `ThirdPerson/Maps/ThirdPersonMap` | Epic's Third Person template map |
+| `EpicContent/ThirdPerson/Maps/ThirdPersonMap` | Epic's Third Person template map |
 
 ![](ScreenShots/Demo%20Level%202.png)
 ![](ScreenShots/Demo%20Level%203.png)
@@ -294,4 +297,4 @@ Setting up a new starter template: https://youtu.be/qdYg9JAuLgU?si=hOwtzRECskFMD
 
 ## License
 
-[MIT](LICENSE) © 2024 Motion Forge. Epic Games content in `EpicContent/` and `ThirdPerson/` is covered by the Unreal Engine EULA.
+[MIT](LICENSE) © 2024 Motion Forge. Epic Games content in `EpicContent/` is covered by the Unreal Engine EULA.

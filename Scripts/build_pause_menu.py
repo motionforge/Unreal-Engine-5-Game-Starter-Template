@@ -49,7 +49,7 @@ CONTROLLER_CHILD = DEMO + "/Blueprints/BP_PlayerController_Child"
 GAMEMODE_CHILD = DEMO + "/Blueprints/BP_Gamemode_Child"
 DEMO_LEVEL = DEMO + "/Maps/Demo_Level"
 DEMO_EXIT_LEVEL = DEMO + "/Maps/Demo_Menu"
-DEMO_PAWN = "/Game/GameTemplate/ThirdPerson/Blueprints/BP_ThirdPersonCharacter"
+DEMO_PAWN = "/Game/GameTemplate/EpicContent/ThirdPerson/Blueprints/BP_ThirdPersonCharacter"
 DEMO_HUD = CORE + "/Core/BP_HUD_CORE"
 
 PAUSE_KEYS = ["Input|KeyboardEvents|Escape", "Input|KeyboardEvents|P", "Input|GamepadEvents|GamepadSpecialRight"]
