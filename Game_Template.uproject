@@ -22,6 +22,18 @@
 		{
 			"Name": "GraphNUnrealPlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "Terminal",
+			"Enabled": true
+		},
+		{
+			"Name": "AllToolsets",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelContextProtocol",
+			"Enabled": true
 		}
 	]
 }
