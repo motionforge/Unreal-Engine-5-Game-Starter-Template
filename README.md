@@ -2,7 +2,7 @@
 
 A general-purpose starter template for Unreal Engine 5. It's a Blueprint project, but you can also use it as the base for a C++/Blueprint project.
 
-It isn't built for any one genre. It's a collection of small, readable Blueprint examples (communication patterns, doors, lifts, lights, UI, menus, an AI drone) that you can reuse or build on, so you don't have to start a new project from scratch. The systems are kept simple on purpose, so each graph is easy to read and change.
+It isn't built for any one genre. It's a collection of key Blueprint examples (communication patterns, doors, lifts, lights, UI, menus, an AI drone) that you can reuse or build on, so you don't have to start a new project from scratch. The systems are kept simple on purpose, so each graph is easy to read and change.
 
 All assets are Creative Commons or made with Unreal Engine's built-in features.
 
@@ -15,19 +15,20 @@ All assets are Creative Commons or made with Unreal Engine's built-in features.
 | | |
 |---|---|
 | Engine | **Unreal Engine 5.8** |
-| Project type | Blueprint only (no C++ module, so no compiler needed) |
+| Project type | Blueprint (no C++ module, so no compiler needed unless you start adding C++ classes etc..) |
 | Runtime plugins | Volumetrics (used by the volumetric cloud material) |
-| Editor-only plugins | Modeling Tools Editor Mode, plus the editor tooling plugins listed in `Game_Template.uproject` (AllToolsets, ModelContextProtocol, Terminal) used by the optional Python build scripts |
+| Editor-only plugins | Modeling Tools Editor Mode, plus the editor tooling plugins listed in `Game_Template.uproject`
 
 ## Getting started
 
-1. Clone the repo:
+1. Click on the green download code button > download zip file > extract to a folder > and double click on the exe file to load.
+2. Or Clone the repo:
    ```
    git clone https://github.com/motionforge/Unreal-Engine-5-Game-Starter-Template.git
    ```
-2. Open `Game_Template.uproject` with Unreal Engine 5.8. The first launch compiles shaders, so it takes a while.
-3. The editor opens on **Blueprint_Sandbox**, a level that shows the template Blueprints.
-4. **To play the demo from the menu**, open `Content/GameTemplate/Demo/Maps/Demo_Menu`, click **Play** in the editor toolbar, then click **START** in the menu. A packaged game starts on Demo_Menu automatically.
+3. Open `Game_Template.uproject` with Unreal Engine 5.8. The first launch compiles shaders, so it may take a while.
+4. The editor opens on **Blueprint_Sandbox**, a level that shows the template Blueprints.
+5. **To play the demo from the menu**, open `Content/GameTemplate/Demo/Maps/Demo_Menu`, click **Play** in the editor toolbar, then click **START** in the menu. A packaged game starts on Demo_Menu automatically.
 
 ## Controls
 
@@ -272,16 +273,6 @@ Point these at your own assets, then use the Reference Viewer to check `Demo/` h
 **Option B: migrate into an existing project.** In the Content Browser, right-click `GameTemplate`, choose **Asset Actions > Migrate**, and pick your project's `Content` folder. Because everything sits in one folder, nothing in the target project is overwritten. Enable the **Volumetrics** plugin in the target project if you want the cloud material.
 
 Tip: make children of the template Blueprints (as the Demo folder does) instead of editing the originals.
-
----
-
-## Python build scripts (`Scripts/`) — optional
-
-Several assets were first generated with Unreal Python scripts (drone, sliding door, lift, rotate, pause and main menus, Niagara tracer and impact, and the demo arena blockout). They're included as reference and as examples of building Blueprints and Niagara systems from Python.
-
-- Run them from the editor's Output Log (**Cmd** set to Python): `py "<path to project>/Scripts/build_xxx.py"`. The paths inside the scripts point at `E:/Unreal Projects/Game_Template`, so update them for your machine.
-- The Blueprints have been **hand-edited since they were generated**, so the assets in `Content/` are the source of truth. Most Blueprint scripts refuse to run over an existing graph. The Niagara and level-blockout scripts rebuild their content, so re-running them replaces any hand edits.
-- You don't need them to use the template.
 
 ---
 
