@@ -76,4 +76,4 @@ DerivedDataCache/*
 # Python bytecode (Scripts/)
 __pycache__/
 *.pyc
-*.py linguist-vendored
+
